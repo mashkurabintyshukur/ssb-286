@@ -1,0 +1,130 @@
+*{
+   margin:0;
+   
+   }
+   
+   
+   header{
+    background-color:#5CBAFF  ;  
+   
+   }
+   
+   nav{
+      width: 62%;
+      margin :auto;
+      padding: 30px 0;
+   
+}
+   nav ul{
+      list-style: none;
+      padding: 0;
+      overflow: hidden;
+   }
+   nav ul li{
+          float:left;
+          margin-left:51px;
+          color: white;
+          font-size: 15px;
+}
+
+nav ul li img{
+   
+   }
+.content{
+
+height: 500px;
+}  
+.left{
+
+width: 40%;
+
+float: left;
+
+background-color: #5CBAFF;
+
+height: 100%;
+}    
+.left img{
+
+width: 100%;
+}
+
+
+
+.right{
+
+width: 60%;
+
+float: right;
+
+background-color: #0093FF;
+
+height: 100%;
+
+position: relative;
+}   
+.total-form{
+
+width: 50%;
+
+position: absolute;
+
+top: 50%;
+
+left: 50%;
+
+transform: translate(-50%,-50%);
+}    
+.total-form h1{
+
+color: #fff;
+
+text-transform: capitalize;
+}    
+.total-form p{
+
+color: #fff;
+}    
+   
+.total-form h5{
+
+color: #fff;
+
+font-size: 18px;
+
+transform: upparcase;
+
+text-transform: uppercase;
+
+margin-top: 12px;
+
+margin-bottom: 12px;
+}    
+input{
+
+width: 100%;
+
+padding: 10px 10px;
+
+border: none;
+
+margin-bottom: 10px;
+}
+
+input[type="submit"]{
+  
+width: 20%;
+  
+
+  
+color: #fff;
+  
+background: transparent;
+  
+background: #5cbaff;
+  
+font-size: 20px;
+}
+
+
+
